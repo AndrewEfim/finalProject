@@ -1,0 +1,39 @@
+{
+  "cards": [
+    {
+      "BankName": "Беларусьбанк",
+      "number": "[8433  6883  2250  5912]",
+      "valid": "2028-07-10",
+      "CardHolder": "Wendy Roads",
+      "payment": "VISA"
+    },
+    {
+      "BankName": "Технобанк",
+      "number": "[6248  9265  5512  1515]",
+      "valid": "2028-07-10",
+      "CardHolder": "Bobbi Axelrod",
+      "payment": "VISA"
+    },
+    {
+      "BankName": "BSB Bank",
+      "number": "[7669  3320  5018  2793]",
+      "valid": "2028-07-10",
+      "CardHolder": "Mike Wagner",
+      "payment": "VISA"
+    },
+    {
+      "BankName": "Belgazprombank",
+      "number": "[4301  7236  5423  6682]",
+      "valid": "2028-07-10",
+      "CardHolder": "Chuck Roads",
+      "payment": "VISA"
+    },
+    {
+      "BankName": "Технобанк",
+      "number": "[5832  448  4240  2571]",
+      "valid": "2028-07-10",
+      "CardHolder": "Tobias Sammet",
+      "payment": "VISA"
+    }
+  ]
+}
