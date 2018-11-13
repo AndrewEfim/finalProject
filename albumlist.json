@@ -1,0 +1,61 @@
+[
+	{
+		"year": "1973",
+		"created": 1541697178195,
+		"imageUrl": "http://www.metallibrary.ru/bands/discographies/images/queen/pictures/74_queen_ii.jpg",
+		"name": "Queen II",
+		"id": "1",
+				
+	},
+	{
+		"year": "1991",
+		"created": 1541697406803,
+		"imageUrl": "http://www.metallibrary.ru/bands/discographies/images/queen/pictures/91_innuendo.jpg",
+		"name": "Innuendo",
+		"id": "7",
+	
+	},
+	{
+		"year": "1973",
+		"created": 1541696964140,
+		"imageUrl": "http://www.metallibrary.ru/bands/discographies/images/queen/pictures/73_queen.jpg",
+		"name": "Queen",
+		"id": "0",
+		},
+	{
+		"year": "1974",
+		"created": 1541697201952,
+		"imageUrl": "http://www.metallibrary.ru/bands/discographies/images/queen/pictures/74_sheer_heart_attack.jpg",
+		"name": "Sheer Heart Attack",
+		"id": "2",
+		},
+	{
+		"year": "1975",
+		"created": 1541697249658,
+		"imageUrl": "http://www.metallibrary.ru/bands/discographies/images/queen/pictures/75_a_night_at_the_opera.jpg",
+		"name": "A Night At The Opera",
+		"id": "3",
+	
+	},
+	{
+		"year": "1976",
+		"created": 1541697286996,
+		"imageUrl": "http://www.metallibrary.ru/bands/discographies/images/queen/pictures/76_a_day_at_the_races.jpg",
+		"name": "A Day At The Races",
+		"id": "4",
+		},
+	{
+		"year": "1977",
+		"created": 1541697337695,
+		"imageUrl": "http://www.metallibrary.ru/bands/discographies/images/queen/pictures/77_news_of_the_world.jpg",
+		"name": "News Of The World",
+		"id": "5",
+		},
+	{
+		"year": "1978",
+		"created": 1541697375548,
+		"imageUrl": "http://www.metallibrary.ru/bands/discographies/images/queen/pictures/78_jazz.jpg",
+		"name": "Jazz",
+		"id": "6",
+		}
+]
